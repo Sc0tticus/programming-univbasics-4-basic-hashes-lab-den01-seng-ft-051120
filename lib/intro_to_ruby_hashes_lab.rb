@@ -2,9 +2,9 @@ def new_hash
 {}
 end
 
-#def my_hash
-#  { :fav_band => "The Beatles" }
-#end
+def my_hash
+  { :fav_band => "The Beatles" }
+end
 
 #def pioneer
 #{ name : "Grace Hopper" }
